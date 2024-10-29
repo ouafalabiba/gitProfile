@@ -3,10 +3,8 @@
 
 <p align="left"> <img src="https://media1.thehungryjpeg.com/thumbs2/ori_3751743_yt4lc4kgmuyzeahmryiofe9k39x9b1cz4b2qsuzv_coding-system-minimal-infographic-banner-vector.jpg" alt="ouafalabiba" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouafalabiba" alt="ouafalabiba" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
-<a class="mailto" href="mailto:lallaouafalabiba@gmail.com">Mail at lallaouafalabiba@gmail.com</a>
+<a class="mailto" href="mailto:lallaouafalabiba@gmail.com">Let's Connect lallaouafalabiba@gmail.com</a>
 <p align="left">
 </p>
 
