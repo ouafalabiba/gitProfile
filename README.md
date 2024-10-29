@@ -1,10 +1,18 @@
-<h1 align="center">Hi 👋,  I'm Lalla Ouafa</h1>
+
+<h1 align="center">Hi 👋, I'm Lalla Ouafa</h1>
 <h3 align="center">A passionate Full Stack developer from USA</h3>
 
 <p align="left"> <img src="https://media1.thehungryjpeg.com/thumbs2/ori_3751743_yt4lc4kgmuyzeahmryiofe9k39x9b1cz4b2qsuzv_coding-system-minimal-infographic-banner-vector.jpg" alt="ouafalabiba" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouafalabiba" alt="ouafalabiba" /></a> </p>
+
+- 🔭 I’m currently **working on Web3**
+
+- 👯 I’m looking to collaborate on **Blockchain & Web3 Projects**
+
+- 📫 **📫 lallaouafalabiba@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
-<a class="mailto" href="mailto:lallaouafalabiba@gmail.com">Let's Connect lallaouafalabiba@gmail.com</a>
 <p align="left">
 </p>
 
@@ -16,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ouafalabiba&show_icons=true&locale=en" alt="ouafalabiba" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ouafalabiba&" alt="ouafalabiba" /></p>
+
