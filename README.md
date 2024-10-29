@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouafalabiba" alt="ouafalabiba" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<a class="mailto" href="mailto:lallaouafalabiba@gmail.com">Mail at lallaouafalabiba@gmail.com</a>
 <p align="left">
 </p>
 
